@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
 
    s.requires_arc = true
 
-   s.dependency 'MessageInputBar/Core'
+   s.dependency 'MessageInputBar/Core', '~> 0.3.0'
 
 end
